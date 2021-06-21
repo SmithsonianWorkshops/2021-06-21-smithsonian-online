@@ -16,7 +16,7 @@ enddate: 2021-06-24        # machine-readable end date for the workshop in YYYY-
 instructor: ["Rebecca Dikow", "Jenna Ekwealor", "Mike Trizna", "Alex Robillard"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Vanessa González", "Paula Pappalardo", "Carlos Arias", "Matt Kweskin"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["si-datascience.si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  ["https://pad.carpentries.org/Smithsonian-online-june21"] # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes:  ["https://pad.carpentries.org/2021-06-21-smithsonian-online"] # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:  "158764798787"         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
